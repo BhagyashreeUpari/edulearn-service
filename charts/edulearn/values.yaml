@@ -1,0 +1,8 @@
+image:
+  repository: 7411847325/edulearn-service
+  tag: "1.0"
+replicaCount: 2
+service:
+  type: NodePort
+  port: 80
+
